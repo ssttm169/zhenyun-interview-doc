@@ -16,22 +16,22 @@ export default function Home() {
 
             <div>
               <h2>关于我</h2>
+
               <p>
-                精通html5, css3, JQuery并能够使用bootstrap等框架，开发响应式网站和解决不同浏览器的兼容问题。<br />
-                精通 Node.js， es6标准，async/await, promise, Express\koa, 中间件, 前后端分离 RESTful API以及全栈开发。<br />
-                精通Vue.js框架，以及nuxt.js(SSR), vuex, router, axios, element等生态插件。<br />
+                拥有5年以上前端开发经验, 积级向上，诚恳，热情，拥有出色的团队合作精神 ，敢于承担重任，想尽办法为公司或组织解决问题。 <br /><br />
+
+                熟悉Vue.js框架，以及nuxt.js(SSR), vuex, router, axios, element等生态插件。<br />
+                熟悉React框架，Redux，Redux-Saga、Dva， 以及Typescript等。<br />
+                熟悉html5, css3, JQuery并能够使用bootstrap等框架，开发响应式网站和解决不同浏览器的兼容问题。<br />
+                熟悉 Node.js， ES6标准，async/await, promise, Express\koa, 中间件, 前后端分离 RESTful API以及全栈开发。<br />
                 熟悉微信小程序开发，mpvue，wepy，微信jssdk， 并对微信机器人开发有实践经验。<br />
                 熟悉webpack、gulp等构建工具，以及less，sass，postcss等css预处理工具。<br />
-                熟悉Redis、MongoDB，MySQL， MSSQL等数据存储和缓存技术。<br />
-                熟悉使用Chrome DevTools, FireBug, Fundebug, Charles, Fiddler, Postman, DHC等测试调试工具。<br />
-                熟悉使用HB开发web app, 以及wap2app, ionic等打包apk, ipa发布应用市场 和App Store。<br />
-                熟练使用git, github， svn代码版本管理。<br />
-                熟悉Linux操作，懂得一些shell常用命令。<br />
+                熟悉使用Chrome DevTools, FireBug, Fundebug, vConsole, Charles, Fiddler, Postman, DHC等测试调试工具。<br />
+                熟悉使用HB, Uni App开发app, 以及wap2app, ionic等打包apk, ipa发布应用市场 和苹果App Store。<br />
+                熟练使用git,  github， svn代码版本管理。<br />
                 对高并发的大型网站有做过研究，并给出很好的解决方案。<br />
                 有英语基础，能够读懂纯英文技术开发文档和做普通口语交流。<br />
-                除了以上的相关技术和技能，我经常关注，实践一些工具, 架框和技术, 比如 Deno, Docker, 飞冰, Flutter, PWA, Headless, 前后端同构以及最新的技术趋势。<br />
               </p>
-
               <p>
                 Github<br />
                 https://github.com/ssttm169<br /><br />

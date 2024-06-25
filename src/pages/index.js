@@ -8,7 +8,7 @@ export default function Home() {
 
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
+      title={`檀武 - 橙云面试稿`}
       description="Description will go into a meta tag in <head />">
       <main>
         <section className={styles.features}>
